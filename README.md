@@ -1,5 +1,5 @@
-# Producer_consumer_simulator
-**It is a simple producer consumer simulator implemented with multiple threads.**
+# Producer_consumer_problem
+**It is a simple producer consumer problem simulator, implemented with multiple threads.**
 
 Each thread in the program representing either producer/consumer-producer(CP)/consumer.
 The first producer will produce intermediate product and give to consumer producer.
