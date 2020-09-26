@@ -15,7 +15,6 @@
  * case. The consumer uses the cd with the inlay and adds a cd and creates a
  * saleable wrapped cd.
  *
- * @author: Renke Wang
  */
 
 public class ProducerConsumer {
